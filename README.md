@@ -1,2 +1,2 @@
-# jayrox.github.io
+# jay.github.io
 My first Web Profile.
