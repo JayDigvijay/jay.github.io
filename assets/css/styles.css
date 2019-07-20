@@ -9,7 +9,7 @@
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #FFFFFF;
-  background: #696969;
+  background: #32383e;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -532,7 +532,7 @@ a.dotted-link:hover {
 }
 
 .languages .item .level {
-  color: #FFFF00;
+  color: #FFFFFF;
 }
 
 .languages .item:last-child {
@@ -620,7 +620,7 @@ a.dotted-link:hover {
 
 /* ======= Footer ======= */
 .footer {
-  background: #32383e;
+  background: #696969;
   color: #fff;
   padding: 10px 0;
 }
